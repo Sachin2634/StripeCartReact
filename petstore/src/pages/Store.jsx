@@ -1,7 +1,7 @@
 import React from 'react'
 import { Row, Col } from 'react-bootstrap'
 import { productsArray } from '../productsStore'
-import ProductCard from '../components/productCard'
+import ProductCard from '../components/ProductCard'
 
 const Store = () => {
   return (
